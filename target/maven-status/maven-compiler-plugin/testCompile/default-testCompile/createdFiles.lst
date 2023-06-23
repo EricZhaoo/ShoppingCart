@@ -1,0 +1,5 @@
+com/shop/ecommerce/entity/UserTest.class
+com/shop/ecommerce/entity/AreaTest.class
+com/shop/ecommerce/entity/ShopCategoryTest.class
+com/shop/ecommerce/entity/ShopTest.class
+com/shop/ecommerce/dao/AreaDaoTest.class
